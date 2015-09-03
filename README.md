@@ -1,7 +1,7 @@
 #Sphere
 
 # Overview
-asudisc.org is a mobile-friendly web application for Arizona State University’s Department of Information Systems Club (DISC) that allows its users to access a registration page, member database, integrated calendar of events, news/blog tab, and photo gallery.  
+asudisc.org is a mobile-friendly web application for Arizona State University’s Department of Information Systems Club (DISC) that allows its users to access a registration page, member database, calendar of events, news/blog tab, and photo gallery.  
 
 # List of contributors
  * Han Kim
