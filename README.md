@@ -4,10 +4,10 @@
 asudisc.org is a mobile-friendly web application for Arizona State University’s Department of Information Systems Club (DISC) that allows its users to access a registration page, member database, integrated calendar of events, news/blog tab, and photo gallery.  
 
 # List of contributors
- * Han Kim - hskim15@asu.edu
- * Don Reese - don@donreese.net
- * Michael Spitzer - spitzer_2@live.com
- * Catherine Phan - cphan2@asu.edu
+ * Han Kim
+ * Don Reese
+ * Michael Spitzer
+ * Catherine Phan
 
 # How this Repo is Organized
 This repo is organized by version number (v0.1, v.02, v0.3, v0.4, Final Release 1.0) 
