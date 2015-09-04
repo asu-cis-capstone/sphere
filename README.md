@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/sphere.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/sphere)
 #Sphere
 
 # Overview
@@ -23,6 +22,8 @@ This repo is organized by version number (v0.1, v.02, v0.3, v0.4, Final Release 
  * Created backlog items within Waffle.io
  * Created README.md file
  * Created website prototype 
+
+[![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/sphere.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/sphere)
 
 
 
