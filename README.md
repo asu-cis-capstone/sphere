@@ -6,7 +6,7 @@ asudisc.org is a mobile-friendly web application for Arizona State University’
 # List of contributors
  * Han Kim
  * Don Reese
- * Michael Spitzer
+ * Michael Spitzkoff
  * Catherine Phan
 
 # How this Repo is Organized
