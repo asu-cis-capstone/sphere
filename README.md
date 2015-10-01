@@ -21,10 +21,14 @@ This repo is organized by version number (v0.1, v.02, v0.3, v0.4, Final Release 
  * Created team repository
  * Created backlog items within Waffle.io
  * Created README.md file
- * Created website prototype 
+ * Created website prototype - asudisc.reesecentral.com
+
+**v0.2**
+ * Integrated WordPress theme
+ * Smooth scroll for menu links
+ * Functional contact, calendar, log-in, and register pages
 
 [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/sphere.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/sphere)
-
 
 
 
