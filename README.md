@@ -28,11 +28,17 @@ This repo is organized by version number (v0.1, v.02, v0.3, v0.4, Final Release 
  * Smooth scroll for menu links
  * Functional contact, calendar, log-in, and register pages
 
-**V0.3**
+**v0.3**
  * Moved site from Protected mode 'Safe' app to a full stand-alone WordPress site
  * General UI/UX improvements
  * Login/Registration pages now functional
  * Photo gallery now functional
+ * Blog now functional
+ 
+**v0.4**
+ * Improved calendar with RSVP function
+ * General UI/UX improvements
+
  
 [![Stories in Ready](https://badge.waffle.io/asu-cis-capstone/sphere.png?label=ready&title=Ready)](https://waffle.io/asu-cis-capstone/sphere)
 
